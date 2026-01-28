@@ -1,0 +1,5 @@
+streamlit-drawable-canvas==0.9.3
+Pillow
+streamlit
+pypdf
+reportlab
